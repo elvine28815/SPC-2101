@@ -2,7 +2,7 @@
 /*
 Name:Elvine Bala
 Reg no:PA106/G/28815/25
-Description:Program to display my height,id number, bank balance and weight
+Description:Program to display my height,id number, bank balance and home county
 */
 #include <stdio.h>//Preproccesor directive : scanf(),printf()
 
@@ -30,4 +30,5 @@ int main(){
 	printf("Your home_county is %lld\n",home_county);
 	
 	return 0;
+
 }
